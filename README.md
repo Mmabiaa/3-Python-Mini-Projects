@@ -14,9 +14,7 @@ This is a simple, interactive multi-player dice rolling game written in Python. 
 - **Game flow**: Players alternate turns and accumulate points. The game ends when one player reaches the target score of 20.
 
 ### Files in this Project:
-- **dice_game.py**: Contains the main game logic for the Dice Rolling Game. Players take turns, roll the dice, and accumulate points. The game ends when a player reaches 20 points.
-- **dice_faces.py**: Contains the ASCII representations of the dice faces (1-6), used in the main game to display the dice face after each roll.
-- **game_utils.py**: A utility file that handles common functions like rolling the dice, updating scores, and checking for a winner.
+- **multi-player-dice-rolling-game.py**: Contains the main game logic for the Dice Rolling Game. Players take turns, roll the dice, and accumulate points. The game ends when a player reaches 20 points.
 
 ### Installation
 

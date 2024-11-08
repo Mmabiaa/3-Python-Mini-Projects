@@ -29,7 +29,7 @@ No installation required. Simply run the script:
 
 ```bash
 python dice_game.py
-
+```
 ### 🎮 How to Play:
 
 1. Enter the number of players (between 2 and 4).
@@ -37,7 +37,7 @@ python dice_game.py
 3. Accumulate points based on the dice roll, but be cautious—if you roll a **"1"**, you lose all points for the round!
 4. The first player to **50 points** wins the game!
 
-
+---
 
 ### 📝 To-Do List App
 
@@ -53,6 +53,8 @@ A **command-line To-Do List** app that allows users to add, view, remove, and ma
 Run the script directly with Python:
 
 ```bash
+  python todo_list.py
+```
 python todo_list.py
 
 # 🔐 Password Manager
@@ -71,3 +73,5 @@ Install the required library:
 
 ```bash
 pip install cryptography
+python password-manager.py
+

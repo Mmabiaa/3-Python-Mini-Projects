@@ -1,4 +1,4 @@
-# Python Mini Projects
+# Python Mini Projects🪖
 
 Welcome to my collection of **Python mini-projects**. These projects showcase a variety of skills, including file handling, encryption, and building interactive applications. Below you'll find details on three fun and useful Python projects.
 
@@ -6,9 +6,9 @@ Welcome to my collection of **Python mini-projects**. These projects showcase a 
 
 ## 🧩 Projects:
 
-1. **Multi-Player Dice Rolling Game**
-2. **To-Do List App**
-3. **Password Manager**
+1. **Multi-Player Dice Rolling Game**(https://github.com/Mmabiaa/3-Python-Mini-Projects/blob/main/3_Mini_Python_projects/multi-player-dice-rolling-game.py)
+2. **To-Do List App** (https://github.com/Mmabiaa/3-Python-Mini-Projects/blob/main/3_Mini_Python_projects/todo-list.py)
+3. **Password Manager** (https://github.com/Mmabiaa/3-Python-Mini-Projects/blob/main/3_Mini_Python_projects/password-manger.py)
 
 ---
 

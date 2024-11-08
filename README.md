@@ -74,4 +74,14 @@ Install the required library:
 ```bash
 pip install cryptography
 python password-manager.py
+```
+## 🛠️ Technologies Used:
+- **Python**: Core programming language for all projects.
+- **cryptography**: Used in the Password Manager for encrypting passwords before storing them.
+
+
+## 📬 Contact:
+Feel free to reach out to me at [your email](mailto:isbbydior@gmail.com) for any questions or suggestions!
+
+Thank you for exploring my **Python mini-projects**! 🚀
 

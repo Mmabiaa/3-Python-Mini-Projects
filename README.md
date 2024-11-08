@@ -1,25 +1,56 @@
 # Python Mini Projects
 
-This repository contains several small Python projects to demonstrate basic Python programming skills. The current project is a **Multi-player Dice Rolling Game** that can be played by 2 to 4 players. Players take turns rolling dice and accumulate points, with exciting bonus rolls if they roll a six!
+Welcome to my collection of **Python mini-projects**. These projects showcase a variety of skills, including file handling, encryption, and building interactive applications. Below you'll find details on three fun and useful Python projects.
 
-## Dice Rolling Game
+---
 
-### Description
-This is a simple, interactive multi-player dice rolling game written in Python. The game allows players to roll a dice and accumulate points. The first player to reach 20 points wins! Additionally, if a player rolls a six, they are allowed to roll again for a bonus, adding to the excitement.
+## 🧩 Projects:
 
-### Features
-- **Multi-player support**: Play with 2 to 4 players.
-- **Dice faces displayed**: Custom ASCII art is shown for each dice roll.
-- **Bonus rolls**: Rolling a six gives players an extra roll for more points.
-- **Game flow**: Players alternate turns and accumulate points. The game ends when one player reaches the target score of 20.
+1. **Multi-Player Dice Rolling Game**
+2. **To-Do List App**
+3. **Password Manager**
 
-### Files in this Project:
-- **multi-player-dice-rolling-game.py**: Contains the main game logic for the Dice Rolling Game. Players take turns, roll the dice, and accumulate points. The game ends when a player reaches 20 points.
+---
 
-### Installation
+## 🎲 Multi-Player Dice Rolling Game
 
-To run this project, you need Python installed on your machine. The game is written in Python 3.x.
+### Overview:
+This is a **multi-player dice-rolling game** where players take turns rolling dice. The first player to reach **50 points** wins the game! You can roll the dice or skip your turn, but if you roll a `1`, your turn ends and you lose points.
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/python_mini_projects.git
+### Features:
+- Supports **2-4 players**.
+- Players accumulate points based on dice rolls.
+- Special rule: **roll a "1"** and lose all points for the round.
+- The first player to **50 points** wins!
+- Option to **skip your turn**.
+
+### 🛠️ Installation:
+No installation required. Simply run the script:
+
+```bash
+python dice_game.py
+
+### 🎮 How to Play:
+
+1. Enter the number of players (between 2 and 4).
+2. Roll the dice or skip your turn.
+3. Accumulate points based on the dice roll, but be cautious—if you roll a **"1"**, you lose all points for the round!
+4. The first player to **50 points** wins the game!
+
+
+
+### 📝 To-Do List App
+
+### Overview:
+A **command-line To-Do List** app that allows users to add, view, remove, and mark tasks as completed. Tasks are saved in a text file, so your list persists between app sessions.
+
+### Features:
+- **Add**, **view**, **remove**, and **mark tasks** as completed.
+- Tasks are saved to `tasks.txt` for persistence.
+- **Text-based interface** for easy use.
+
+### 🛠️ Installation:
+Run the script directly with Python:
+
+```bash
+python todo_list.py

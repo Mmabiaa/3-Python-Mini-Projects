@@ -54,3 +54,20 @@ Run the script directly with Python:
 
 ```bash
 python todo_list.py
+
+# 🔐 Password Manager
+
+### Overview:
+A simple **Password Manager** that securely stores passwords. It uses **encryption** to protect your sensitive data. A **master password** is required to access stored passwords.
+
+### Features:
+- **Add** and **retrieve** passwords for different accounts.
+- **Encrypts passwords** before storing them in `passwords.txt`.
+- **Secure master password** required for access.
+- Passwords are stored safely and encrypted with the `cryptography` library.
+
+### 🛠️ Installation:
+Install the required library:
+
+```bash
+pip install cryptography

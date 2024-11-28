@@ -81,7 +81,7 @@ python password-manager.py
 
 
 ## 📬 Contact:
-Feel free to reach out to me at [your email](mailto:isbbydior@gmail.com) for any questions or suggestions!
+Feel free to reach out to me at [isbbydior@gmail.com](mailto:isbbydior@gmail.com) for any questions or suggestions!
 
 Thank you for exploring my **Python mini-projects**! 🚀
 
